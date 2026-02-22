@@ -1,7 +1,8 @@
 # 🤖 Customer Query & Response Automation using N8N (RAG-Based Workflow)
+RAG-based customer support automation built using N8N. The workflow captures customer queries via Telegram, retrieves relevant product information from documents using Pinecone vector search, generates context-aware responses with OpenAI, logs interactions in Google Sheets, and delivers instant AI-powered replies automatically.
+
 **Retrieval-Augmented Generation (RAG) Automation Pipeline**  
 
-RAG-based customer support automation built using N8N. The workflow captures customer queries via Telegram, retrieves relevant product information from documents using Pinecone vector search, generates context-aware responses with OpenAI, logs interactions in Google Sheets, and delivers instant AI-powered replies automatically.
 ---
 
 ## 🎯 Objective
