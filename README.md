@@ -358,5 +358,9 @@ GenAI Automation Mini-Project (RAG-Based Workflow)
 - End-to-end no-code AI deployment
 
 ---
+Architecture Screenshot
+
+<img width="1623" height="661" alt="image" src="https://github.com/user-attachments/assets/5b1a1ae2-2458-4e7b-b261-4ee2497a74ab" />
+
 
 🚀 This project demonstrates how businesses can automate customer support using Retrieval-Augmented Generation with N8N.
