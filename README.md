@@ -342,7 +342,7 @@ Verify:
 # 📜 License
 
 Developed for educational purposes under  
-Module 4 – GenAI Automation Mini-Project (RAG-Based Workflow)
+GenAI Automation Mini-Project (RAG-Based Workflow)
 
 ---
 
