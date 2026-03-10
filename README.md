@@ -64,6 +64,8 @@ Google Sheets (Log Query-Response)
             ↓
 Telegram Send Message (Auto Reply)
 ```
+---
+<img width="1589" height="672" alt="image" src="https://github.com/user-attachments/assets/b48d7a0d-df20-4627-a43c-109c84500546" />
 
 ---
 
